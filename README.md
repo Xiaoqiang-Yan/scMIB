@@ -7,7 +7,7 @@ scMIB: Compact and Informative Representation Learning for scRNA-seq Data Cluste
 Clone this repository. The stAA has been implemented in Python3.9.16 and Pytorch 1.12.0.
 
 ```
-git clone https://github.com/HarvestHan/scMIB.git
+git clone https://github.com/Xiaoqiang-Yan/scMIB.git
 cd scMIB-main/
 ```
 
